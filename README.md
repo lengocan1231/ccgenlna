@@ -18,7 +18,7 @@ git clone https://github.com/lengocan1231/ccgenlna.git
 cd ccgenlna
 ```
 ```
-chmod +x cc-new.py
+chmod +x ccgen.py
 ```
 ```
 ./ccgenlna.py
